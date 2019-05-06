@@ -20,7 +20,7 @@ From: ubuntu
   apt-get clean
   pip3 install numpy matplotlib sklearn 
   pip3 install scikit-bio
-  
+  pop3 install astropy
 
 %runscript
   # executes with the singularity run command
