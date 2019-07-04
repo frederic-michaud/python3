@@ -21,7 +21,7 @@ From: ubuntu
   pip3 install numpy matplotlib sklearn 
   pip3 install scikit-bio
   pip3 install astropy
-
+  pip3 install numpy
 %runscript
   # executes with the singularity run command
   # delete this section to use existing docker ENTRYPOINT command
